@@ -1,0 +1,3 @@
+devops is in high range of usage.
+it consits of sevral tools.
+in that jenkins and terraforum makes a huge impact.
